@@ -2,7 +2,7 @@
 
 namespace Spatie\MailcoachUnlayer\Http\Requests;
 
-use Illuminate\Foundation\Http\FormRequest;
+use App\Http\FormRequest;
 
 class UploadRequest extends FormRequest
 {
