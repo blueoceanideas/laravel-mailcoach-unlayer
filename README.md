@@ -4,13 +4,11 @@ This package is an optional add on for [Mailcoach](https://mailcoach.app).
  
 When installed, it adds the free version of [Unlayer editor](https://unlayer.com), a beautiful drag and drop editor, to Mailcoach. 
 
-![screenshot](./docs/screenshot.png)
+![screenshot](docs/screenshot.png)
 
 ## Support us
 
-Learn how to create a package like this one, by watching our premium video course:
-
-[![Laravel Package training](https://spatie.be/github/package-training.jpg)](https://laravelpackage.training)
+[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/laravel-mailcoach-unlayer.jpg?t=1" width="419px" />](https://spatie.be/github-ad-click/laravel-mailcoach-unlayer)
 
 We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
 
@@ -18,7 +16,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 
 ## Documentation
 
-You'll find the documentation for this package [inside the Mailcoach docs](https://mailcoach.app/docs/v2/package/customizing-the-editor/unlayer).
+You'll find the documentation for this package [inside the Mailcoach docs](https://spatie.be/docs/laravel-mailcoach/v4/choosing-an-editor/unlayer).
 
 ## Testing
 
